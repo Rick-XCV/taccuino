@@ -28,12 +28,10 @@ It's something "CASUAL" (not even worth splitting into subfiles for now).
 ## Electronic:
 - [YT: Circuit of a simple analog kick-drum](https://www.youtube.com/watch?v=yz37Yz315eU)
 
-## Web things:
-- [Crow](https://github.com/CrowCpp/Crow)
-
 ## Entertainment & Background music:
 - [YT: Nicholas Shackleton - Playing CDs never heard](https://www.youtube.com/watch?v=-DDco3hlJl8&t=2881s)
 - [STRUDEL: The "DAW" for livecoding audio&music](https://strudel.cc/)
 
 ## Other interesting links:
 - [JOHNNYDECIMAL: A tidy way to organize things](https://johnnydecimal.com/)
+- [CROW: Popular alternative to](https://github.com/CrowCpp/Crow)
