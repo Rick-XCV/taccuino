@@ -3,9 +3,9 @@
 > **TACCUINO**: Italian word for a pocket-sized *commonplace book*.
 
 Here I gather Ideas or articles worth the time of an espresso.
-Articles&Bookmarks, Ideas&Thoughts, etc...
+articles&bookmarks, ideas&thoughts, etc...
 
-It's something "CASUAL" (not even worth splitting into subfiles for now).
+It's something "CASUAL" (not even worth splitting into files&folders for now).
 
 
 ---
