@@ -13,7 +13,7 @@ It's something "CASUAL" (not even worth splitting into files&folders for now).
 ## Cheatsheets
 - [OVER API: Site "collecting cheatsheets"](https://overapi.com/)
 
-## 3D & Graphic:
+## 3D & Graphics:
 - [YT: 3d-printing of fabric](https://www.youtube.com/shorts/Sbmz7lFbW9M)
 - [YT: OneScene*Day in Blender using Python](https://www.youtube.com/@CGPython)
 - [...Random article on Dithering algorithms](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
