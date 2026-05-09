@@ -10,8 +10,8 @@ It's something "CASUAL" (not even worth splitting into subfiles for now).
 
 ---
 
-## CHEATSHEETS
-- [OVER API: Site "collecting cheatshits"](https://overapi.com/)
+## Cheatsheets
+- [OVER API: Site "collecting cheatsheets"](https://overapi.com/)
 
 ## 3D & Graphic:
 - [YT: 3d-printing of fabric](https://www.youtube.com/shorts/Sbmz7lFbW9M)
@@ -28,12 +28,12 @@ It's something "CASUAL" (not even worth splitting into subfiles for now).
 ## Electronic:
 - [YT: Circuit of a simple analog kick-drum](https://www.youtube.com/watch?v=yz37Yz315eU)
 
-## Web Things:
+## Web things:
 - [Crow](https://github.com/CrowCpp/Crow)
 
-## Entertainment & Background-Music:
+## Entertainment & Background music:
 - [YT: Nicholas Shackleton - Playing CDs never heard](https://www.youtube.com/watch?v=-DDco3hlJl8&t=2881s)
 - [STRUDEL: The "DAW" for livecoding audio&music](https://strudel.cc/)
 
-## Other Interesting links:
+## Other interesting links:
 - [JOHNNYDECIMAL: A tidy way to organize things](https://johnnydecimal.com/)
