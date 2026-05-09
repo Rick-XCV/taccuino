@@ -1,4 +1,4 @@
-# taccuino
+# My public taccuino
 
 > **TACCUINO**: Italian word for a pocket-sized *commonplace book*.
 
